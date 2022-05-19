@@ -1,0 +1,5 @@
+Ejemplo de MiniJuego utilizando patron MVC
+El minijuego muestra una ventana principal con la que interactua el usuario. Segun la seleccion del usuario el controlador realiza una accion, en este caso Genera una palabra aleatoria, Muestra cuantas palabras ha generado o Sale del minijuego.
+En el caso de generar una palabra pues el controlador se comunica con el modelo para obtener la palabra aleatoria y luego llamar al Lector para mostrar la palabra generada en la vista correspondiente. 
+Si desea ver las palabras generadas pues el controlador llama a la vista pasandole los datos del modelo que él contiene.
+Para salir el controlador ni siquiera se comunica con el Modelo o la Vista o sea el Controlador puede realizar acciones de manera autonoma.  
