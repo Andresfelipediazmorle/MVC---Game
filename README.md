@@ -1,2 +1,2 @@
 # MVC---Game
-Un ejemplo de minijuego que implementa el patrón MVC
+Algunos ejemplos de minijuegos que implementan el patrón MVC
