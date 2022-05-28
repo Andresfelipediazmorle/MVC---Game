@@ -1,0 +1,4 @@
+aplicacion de lista de compras. Hace listas del nombre, la cantidad y el precio de cada articulo que desea comprar. 
+Desde app.py se inicia la aplicacion. Primero muestra un menu donde el usuario interactua con las diferentes opciones.
+Primero las listas de compra se inician solo con un nombre y luego se le agregan articulos o se elimina.
+Para editar los articulos llama a su metodo editar  pasandole los datos actualizados
